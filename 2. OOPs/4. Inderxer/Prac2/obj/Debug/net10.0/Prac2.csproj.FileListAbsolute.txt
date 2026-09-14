@@ -1,0 +1,14 @@
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\bin\Debug\net10.0\Prac2.exe
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\bin\Debug\net10.0\Prac2.deps.json
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\bin\Debug\net10.0\Prac2.runtimeconfig.json
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\bin\Debug\net10.0\Prac2.dll
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\bin\Debug\net10.0\Prac2.pdb
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\Prac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\Prac2.AssemblyInfoInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\Prac2.AssemblyInfo.cs
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\Prac2.csproj.CoreCompileInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\Prac2.dll
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\refint\Prac2.dll
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\Prac2.pdb
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\Prac2.genruntimeconfig.cache
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\Prac2\obj\Debug\net10.0\ref\Prac2.dll
