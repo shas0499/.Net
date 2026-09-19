@@ -1,0 +1,14 @@
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\bin\Debug\net10.0\InterfaceP1.exe
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\bin\Debug\net10.0\InterfaceP1.deps.json
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\bin\Debug\net10.0\InterfaceP1.runtimeconfig.json
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\bin\Debug\net10.0\InterfaceP1.dll
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\bin\Debug\net10.0\InterfaceP1.pdb
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\InterfaceP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\InterfaceP1.AssemblyInfoInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\InterfaceP1.AssemblyInfo.cs
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\InterfaceP1.csproj.CoreCompileInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\InterfaceP1.dll
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\refint\InterfaceP1.dll
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\InterfaceP1.pdb
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\InterfaceP1.genruntimeconfig.cache
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Interface\InterfaceP1\obj\Debug\net10.0\ref\InterfaceP1.dll
