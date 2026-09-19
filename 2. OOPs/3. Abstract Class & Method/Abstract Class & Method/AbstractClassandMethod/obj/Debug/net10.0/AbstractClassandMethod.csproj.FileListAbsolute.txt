@@ -1,0 +1,14 @@
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\bin\Debug\net10.0\AbstractClassandMethod.exe
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\bin\Debug\net10.0\AbstractClassandMethod.deps.json
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\bin\Debug\net10.0\AbstractClassandMethod.runtimeconfig.json
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\bin\Debug\net10.0\AbstractClassandMethod.dll
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\bin\Debug\net10.0\AbstractClassandMethod.pdb
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\AbstractClassandMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\AbstractClassandMethod.AssemblyInfoInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\AbstractClassandMethod.AssemblyInfo.cs
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\AbstractClassandMethod.csproj.CoreCompileInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\AbstractClassandMethod.dll
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\refint\AbstractClassandMethod.dll
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\AbstractClassandMethod.pdb
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\AbstractClassandMethod.genruntimeconfig.cache
+C:\Users\shasw\Documents\.Net (C#)\2. OOP\Abstract Class & Method\AbstractClassandMethod\obj\Debug\net10.0\ref\AbstractClassandMethod.dll
