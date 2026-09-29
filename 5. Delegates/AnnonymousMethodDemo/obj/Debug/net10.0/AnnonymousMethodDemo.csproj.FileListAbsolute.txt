@@ -1,0 +1,14 @@
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\AnnonymousMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\AnnonymousMethodDemo.AssemblyInfoInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\AnnonymousMethodDemo.AssemblyInfo.cs
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\AnnonymousMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\bin\Debug\net10.0\AnnonymousMethodDemo.exe
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\bin\Debug\net10.0\AnnonymousMethodDemo.deps.json
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\bin\Debug\net10.0\AnnonymousMethodDemo.runtimeconfig.json
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\bin\Debug\net10.0\AnnonymousMethodDemo.dll
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\bin\Debug\net10.0\AnnonymousMethodDemo.pdb
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\AnnonymousMethodDemo.dll
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\refint\AnnonymousMethodDemo.dll
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\AnnonymousMethodDemo.pdb
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\AnnonymousMethodDemo.genruntimeconfig.cache
+C:\Users\shasw\Documents\.Net (C#)\5. Delegates\AnnonymousMethodDemo\obj\Debug\net10.0\ref\AnnonymousMethodDemo.dll
