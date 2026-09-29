@@ -1,0 +1,14 @@
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\bin\Debug\net10.0\IndexerDemo.exe
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\bin\Debug\net10.0\IndexerDemo.deps.json
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\bin\Debug\net10.0\IndexerDemo.runtimeconfig.json
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\bin\Debug\net10.0\IndexerDemo.dll
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\bin\Debug\net10.0\IndexerDemo.pdb
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\IndexerDemo.AssemblyInfoInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\IndexerDemo.AssemblyInfo.cs
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\IndexerDemo.dll
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\refint\IndexerDemo.dll
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\IndexerDemo.pdb
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\IndexerDemo.genruntimeconfig.cache
+C:\Users\shasw\Documents\.Net (C#)\4. Indexer\IndexerDemo\obj\Debug\net10.0\ref\IndexerDemo.dll
